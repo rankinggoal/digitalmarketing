@@ -9,7 +9,7 @@ Suppose you intend that several of your contents appear positioned in different 
 How to detect an SEO cannibalization problem
 To check if we have cannibalization of keywords in SEO, we can do searches on Google and see the results over time.
 As you can see, this system is quite rudimentary and inefficient, and rigorous.
-The best thing is to use an SEO tool like <strong><a href="https://www.xovi.com/">XOVI</a></strong>that allows you to monitor all the words and see in a moment if this situation occurs (seeing the position evolution graph and checking if there are jumps) to solve it as soon as possible.
+The best thing is to use an SEO tool like <strong><a href="https://www.xovi.com/">XOVI</a></strong> that allows you to monitor all the words and see in a moment if this situation occurs (seeing the position evolution graph and checking if there are jumps) to solve it as soon as possible.
 How to fix a cannibalization
 In many cases, the fastest thing to do is to make a 301 redirection from the least important URL to the most important. Still, you should always check that the page is not ranking for other keywords.
 Another option is to change the title's keywords and content to cover new related aspects.
